@@ -14,3 +14,4 @@ I also learned to use NuGet, i belive something similar to npm, yarn or composer
 - `EntityFrameworkCore.Tools` - for nuget commands
 - `Razor.RuntimeCompilation` - for hotreload functionality
 
+I also left appsettings.json out of .gitignore because there is no sensitive data here (about connection string or anything else)
